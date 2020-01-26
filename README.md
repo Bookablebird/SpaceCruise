@@ -5,4 +5,4 @@ You can also check out http://users.metropolia.fi/~paavooh/Landingpage.html for 
 (This was our first hmtl project and had very little vallue in the cource)
 
 # *Notice* 
-This project was done as a group, and I can not take full credit for it. But the all the code was made pretty evenly 50/50
+This project was done as a group, and I can not take full credit for it. But all the code was made pretty evenly 50/50
